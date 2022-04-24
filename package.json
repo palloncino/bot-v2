@@ -3,7 +3,11 @@
     "start": "node ./src"
   },
   "devDependencies": {
+    "chromedriver": "^100.0.0",
     "eslint": "^8.14.0",
     "eslint-config-xo": "^0.40.0"
+  },
+  "dependencies": {
+    "selenium-webdriver": "^4.1.1"
   }
 }
