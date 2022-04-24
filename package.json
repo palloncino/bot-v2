@@ -1,4 +1,7 @@
 {
+  "scripts": {
+    "start": "node ./src"
+  },
   "devDependencies": {
     "eslint": "^8.14.0",
     "eslint-config-xo": "^0.40.0"
